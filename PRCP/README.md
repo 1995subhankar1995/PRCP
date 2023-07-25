@@ -1,5 +1,6 @@
 # PRCP (Probabilistically Robust Conformal Prediction)
 This repository contains the code and models necessary to replicate the results of our paper:
+Please follow the [project page]([https://sites.google.com/view/ncpefficiency/home](https://sites.google.com/view/probabilisticcp?usp=sharing)) for new updates.
 
 ## Contents
 The major content of our repo are:
