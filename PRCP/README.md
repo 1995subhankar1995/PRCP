@@ -49,9 +49,9 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 conda install -c conda-forge plotnine
 ```
 2. 
-   1. Download trained models from [here](https://drive.google.com/file/d/1NY25J5lVGyR583J4iUFKrZP3OpfcjDmw/view?usp=sharing) and extract them to Project_RSCP/checkpoints/.
-   2. Download cohen models from [here](https://drive.google.com/file/d/1h_TpbXm5haY5f-l4--IKylmdz6tvPoR4/view) and extract them to Project_RSCP/Pretrained_Models/. Change the name of "models" folder to "Cohen".
-   3. If you want to run ImageNet experiments, obtain a copy of ImageNet ILSVRC2012 validation set and preprocess the val directory by running [this script](https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/valprep.sh). Put the created folders in Project_RSCP/datasets/imagenet/.
+   1. Download trained models from [here](https://drive.google.com/file/d/1NY25J5lVGyR583J4iUFKrZP3OpfcjDmw/view?usp=sharing) and extract them to PRCP/checkpoints/.
+   2. Download cohen models from [here](https://drive.google.com/file/d/1h_TpbXm5haY5f-l4--IKylmdz6tvPoR4/view) and extract them to PRCP/Pretrained_Models/. Change the name of "models" folder to "Cohen".
+   3. If you want to run ImageNet experiments, obtain a copy of ImageNet ILSVRC2012 validation set and preprocess the val directory by running [this script](https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/valprep.sh). Put the created folders in PRCP/datasets/imagenet/.
 3. The current working directory when running the scripts should be the top folder PRCP.
 
 
